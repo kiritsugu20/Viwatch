@@ -1,0 +1,25 @@
+nav{
+    background-color: white;
+    display:flex;
+    flex-direction: column;
+    position:fixed;
+    left:0;
+    bottom:0;
+    top:49px;
+    width:80px;
+    z-index:101;
+}
+nav img{
+    height:24px;
+    width:24px;
+}
+nav p{
+    font-size:11px;
+}
+nav div{
+    height:90px;
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items:center;
+}
